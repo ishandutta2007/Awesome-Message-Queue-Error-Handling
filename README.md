@@ -59,9 +59,9 @@ Below is a curated comparison of leading managed messaging platforms sorted by *
 
 ## 📦 Open-Source GitHub Projects
 
-Sorted strictly by **GitHub Star Count (Descending)**. Star badges link directly to the stargazers page of each repository.
+Sorted strictly by **GitHub Stars_Count (Descending)**. Stars_Badges link directly to the stargazers page of each repository.
 
-| 🐙 Project | ⭐ Star Count | 📜 License | 🛠️ DLQ & Error Handling Features | 🎯 Best Used For |
+| 🐙 Project | ⭐ Stars_Count | 📜 License | 🛠️ DLQ & Error Handling Features | 🎯 Best Used For |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Apache Kafka](https://github.com/apache/kafka)** 🐘 | [![Stars](https://img.shields.io/github/stars/apache/kafka?style=social&color=white)](https://github.com/apache/kafka/stargazers) | Apache-2.0 | DLQ sink connectors via Kafka Connect, offset commit management, deserialization exception handlers. | High-throughput event streaming & log processing |
 | **[Celery](https://github.com/celery/celery)** 🥬 | [![Stars](https://img.shields.io/github/stars/celery/celery?style=social&color=white)](https://github.com/celery/celery/stargazers) | BSD-3-Clause | `retry()` with exponential backoff, `max_retries`, task reject on worker loss, custom failure callbacks. | Python distributed task execution |
